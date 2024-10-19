@@ -16,7 +16,7 @@ import cypress from "../assets/tech/cypress.png";
 import express from "../assets/tech/express.png";
 import mongo from "../assets/tech/mongo.png";
 
-export const navLinks = [
+export const menuItems = [
   { name: 'About', href: '#about' },
   { name: 'Projects', href: '#projects' },
   { name: 'Skills', href: '#skills' },
